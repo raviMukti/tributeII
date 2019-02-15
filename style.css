@@ -1,0 +1,60 @@
+body{
+    background-color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#main{
+    background-color: #c5c6c9;
+    border-radius: 1.5%;
+    padding-bottom: 1%;
+}
+
+#title-div{
+    text-align: center;
+    padding: 1%;
+}
+img{
+    display: block;
+    height: auto;
+    margin: auto;
+    padding: 1%;
+    max-width: 100%;
+}
+
+#img-div{
+    background-color: white;
+    text-align: center;
+    border-radius: 1%;
+    max-width: 100%;
+    padding: 1%;
+}
+
+#img-caption{
+    text-align: center;
+    padding: 1%;
+}
+
+#tribute-info{
+    padding: 1%;
+    text-align: justify;
+    margin: 1%;
+    max-width: 90%;
+}
+
+blockquote{
+    text-align: center;
+    max-width: 90%;
+}
+
+#tulis{
+    text-align: center;
+}
+
+#alamat{
+    text-align: center;
+}
+
+#tribute-link{
+    text-decoration: none;
+}
+
